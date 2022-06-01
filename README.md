@@ -3,8 +3,10 @@
 **flavio-fgjj/flavio-fgjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="300" height="200"/>
+  
+  <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47ij9dhauk49i0ryf7ibe02joxdly7wk4cpzfecfay&rid=giphy.gif&ct=g" width="300" height="200"/>
   <hr>
+  
 </div>
 
 <div align="center">
