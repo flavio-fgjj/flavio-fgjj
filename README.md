@@ -43,7 +43,7 @@
 
 ---
 
-- 💼 FrontWeb Develop at [ITSector](https://www.itsector.pt/)
+- 💼 Web Develop at [ITSector](https://www.itsector.pt/)
 - 🌱 I’m currently studying MOBILE DEVELOPMENT at [FIAP](microsoftsqlserver-plain-wordmark.svg)
 - 💬 Ask me about anything [here](https://github.com/flavio-fgjj/flavio-fgjj/issues)
 - ❤️ I'm a father, wine lover and a enthusiastic reader.
